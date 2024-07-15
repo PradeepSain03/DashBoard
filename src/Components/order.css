@@ -1,0 +1,24 @@
+.first1{
+    color:white;
+    background-color:#4caf50 ;
+    padding: 12px;
+    border-radius: 20px;
+}
+.second2{
+    background-color: #f54e43;
+    color:white;
+    padding: 12px;
+    border-radius: 20px;
+}
+.third3{
+    background-color:#2196f3 ;
+    color:white;
+    border-radius: 20px;
+    padding: 12px;
+}
+.fourth4{
+    background-color:#ff9800 ;
+    color:black;
+    border-radius: 20px;
+    padding: 12px;
+}
